@@ -1,0 +1,51 @@
+body {
+    background-color: lightgray;
+}
+h1,h2 {
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+h1 {
+    font-size: 35px;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    color: red;
+}
+#image {
+ text-align: center;
+  margin:-5px;
+  margin-top:20px;
+  border:5px solid white;
+  background:white;
+}
+#info {
+  font-size: 20px;
+  max-width: 700px;
+  margin: auto;
+  padding-top:40px;
+  padding-bottom:10px;
+  padding-left:50px;
+  border-style:hidden;
+}
+li {
+    margin-top: 10px;
+}
+iframe {
+    display: block;
+    margin-left: 28%;
+}
+#link {
+    text-align: center;
+}
+footer {
+    background-color:lightslategrey;
+    block-size: 35px;
+}
+.textcenter {
+    padding-top: 10px;
+    font-size: 12px;
+}
